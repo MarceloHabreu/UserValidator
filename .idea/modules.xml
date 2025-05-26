@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CardCheck.iml" filepath="$PROJECT_DIR$/CardCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserValidator.iml" filepath="$PROJECT_DIR$/UserValidator.iml" />
     </modules>
   </component>
 </project>
