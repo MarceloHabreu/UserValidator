@@ -4,6 +4,7 @@ public class Card {
     private String cardNumber;
     private String password;
 
+
     public Card(String cardNumber, String password) {
         this.cardNumber = cardNumber;
         this.password = password;
